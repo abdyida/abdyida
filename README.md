@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aida
 - 👀 I’m interested in learning Front-end web development.
-- 🌱 I’m currently learning studing online courses on udemy and youtube.
+- 🌱 I’m currently learning online courses on udemy and youtube.
 - 📫 Email: aida.abdyrazak@gmail.com, telegram: @abdyida
 
 <!---
